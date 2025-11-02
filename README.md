@@ -1,6 +1,6 @@
-# 🧩 cubazo
+# 🧩 Cub3d
 
-Project inspired by the legendary **Wolfenstein 3D (1992)**: create a simple **3D ray-casting engine** using **MiniLibX**.  
+Project inspired by the legendary **Wolfenstein 3D (1992)**: create a simple **3D ray-casting engine** using **MiniLibX**.  Done by ngastana and emunoz, what a group!
 
 ---
 
