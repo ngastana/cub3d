@@ -56,7 +56,6 @@ make
 So even though it looks 3D, it’s all clever 2D math 🧮 and trigonometry.
 
 ## ⚙️ Allowed Functions
-You’ll mainly use:
 open, close, read, write, malloc, free, exit,
 perror, strerror, printf, getline,
 math functions (sin, cos, tan, etc.),
