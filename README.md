@@ -19,7 +19,7 @@ make
 ./cub3D maps/example.cub
 ```
 ## 🗺️ Map Format (.cub)
-Your .cub file defines the world:
+.cub file defines the world:
     NO ./textures/north.xpm
     SO ./textures/south.xpm
     WE ./textures/west.xpm
