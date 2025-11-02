@@ -60,7 +60,7 @@ open, close, read, write, malloc, free, exit,
 perror, strerror, printf, getline,
 math functions (sin, cos, tan, etc.),
 MiniLibX functions (mlx_init, mlx_new_window, mlx_put_image_to_window, etc.)
-And of course, everything from your Libft 
+And of course, everything from Libft 
 ## 💥 Error Handling
     ❌ Invalid .cub file → print "Error\nInvalid map"
     🚫 Missing textures or colors → error
