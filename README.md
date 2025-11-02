@@ -16,10 +16,8 @@ Program reads a `.cub` map file, draw walls with textures, and lets the player e
 ### 🔨 Compilation
 ```bash
 make
-```
-
-## ▶️ Run example
 ./cub3D maps/example.cub
+```
 ## 🗺️ Map Format (.cub)
 Your .cub file defines the world:
     NO ./textures/north.xpm
